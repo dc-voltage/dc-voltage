@@ -30,6 +30,7 @@
 
 | Repository | Focus & Technical Highlights | Category | Status |
 | :--- | :--- | :--- | :--- |
+| 📺 **[JMSD200A-hide-powerfull-fichers](https://github.com/dc-voltage/JMSD200A-hide-powerfull-fichers)** | **Jio STB (JMSD200A) TeleOS Full Unlocking & Hidden Features Bible**: TR-069 watchdog neutralization, unhiding Stock Android TV settings, **Marantz SR7009 Audiophile Dolby Atmos & DTS Master Bitstream**, 10-bit HDR/ALLM, Ivideon CCTV forensics, and **21GB Debian 13 Linux Subsystem**. | `Android TV & STB Security` | `🔥 FLAGSHIP RELEASE` |
 | 📺 **[JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK](https://github.com/dc-voltage/JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK)** | **Amlogic ARMv8 Android 11 TR-069 CWMP bypass**, non-invasive forced ADB injection, 40+ Jio telemetry/SSO debloat toolkit, **Widevine L1 4K HDR & Dolby Audio preserved**. | `Android TV & STB Security` | `🔥 LATEST BREAKTHROUGH` |
 | 🛰️ **[Audit-Nokia-AOD311NK-5G-FWA-CPE](https://github.com/dc-voltage/Audit-Nokia-AOD311NK-5G-FWA-CPE)** | Deep architectural audit, firmware security teardown, and hardware analysis for Nokia 5G FWA outdoor units. | `5G CPE Security` | `VERIFIED REPORT` |
 | 🔓 **[Quectel RG520F SSL Research](https://github.com/dc-voltage/Engine-SSL-Bypass-Quectel-RG520F-JO-5G-Module-AirFiber)** | Cellular modem SSL certificate bypass, AT command forensics, and firmware inspection for 5G AirFiber modules. | `Modem Unlocking` | `RESEARCH RELEASE` |
