@@ -1,7 +1,6 @@
 <div align="center">
 
-# ⚡ DC VOLTAGE ⚡
-### **Telecom Hardware Researcher | Embedded Security Engineer | Android Kernel Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header&text=⚡%20DC%20VOLTAGE%20⚡&fontSize=50&fontAlignY=36&desc=Telecom%20Security%20%7C%205G%20Modem%20R%26D%20%7C%20Android%20TV%20STB%20%7C%20Kernel%20Dev&descAlignY=58&descSize=17&fontColor=ffffff" width="100%" alt="DC VOLTAGE Banner" />
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=dc-voltage&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dc-voltage)
 [![Followers](https://img.shields.io/github/followers/dc-voltage?style=for-the-badge&color=4facfe&logo=github)](https://github.com/dc-voltage)
@@ -10,18 +9,17 @@
 <br/>
 
 <a href="https://github.com/dc-voltage">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=⚡+DC+VOLTAGE+|+Hardware+%26+Telecom+Reverse+Engineer;🔓+TR-069+CWMP+Remote+ACS+Provisioning+Specialist;📺+Amlogic+ARMv8+%26+Android+TV+%2F+STB+Security;🛰️+5G+FWA+CPE+%26+Qualcomm+Baseband+Research;⚡+Custom+Linux+%26+Android+Kernel+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=⚡+DC+VOLTAGE+|+Hardware+%26+Telecom+Reverse+Engineer;🔓+TR-069+CWMP+Remote+ACS+Provisioning+Specialist;📺+Amlogic+ARMv8+%26+Android+TV+%2F+STB+Security;🛰️+5G+FWA+CPE+%26+Qualcomm+Baseband+Research;⚡+Custom+Linux+%26+Android+Kernel+Developer" alt="Typing SVG" />
 </a>
 
 ```text
-========================================================================================
-   _  _____ _   _____  _  _____ _   ___ ___     ____   ____   _   _ _____ _    ____ _____ 
-  | \|_   _/_\ |_   _|/_\/ __| | | | _ \ __|   |  _ \ / ___| | | | |_   _/ \  / ___| ____|
-  | .` | |/ _ \  | | / _ \ (_ | |_| |  _/ _|    | | | | |     | | | | | |/ _ \| |  _|  _|  
-  |_|\_|_/_/ \_\ |_|/_/ \_\___|\___/|_| |___|   | |_| | |___  \ \_/ / | / ___ \ |_| | |___ 
-                                                |____/ \____|  \___/  |_/_/   \_\____|_____|
-========================================================================================
-🔓 Router & CPE Unlocking • 5G Modem R&D • Android TV / STB Security • Custom Kernels ⚡
+======================================================
+  ___   ___    __   __ ___  _   _____  _    ____ _____ 
+ |   \ / __|   \ \ / // _ \| | |_   _/ _\  / ___| ____|
+ | |) | (__     \ V /| (_) | |___| |/ _ \ | | _ | _|   
+ |___/ \___|     \_/  \___/|_____|_/_/ \_\ \____|_____|
+======================================================
+ 🔓 CPE Unlocking • 5G R&D • STB Security • Kernels ⚡
 ```
 
 </div>
@@ -37,7 +35,7 @@
 | 🔓 **[Quectel RG520F SSL Research](https://github.com/dc-voltage/Engine-SSL-Bypass-Quectel-RG520F-JO-5G-Module-AirFiber)** | Cellular modem SSL certificate bypass, AT command forensics, and firmware inspection for 5G AirFiber modules. | `Modem Unlocking` | `RESEARCH RELEASE` |
 | 🌐 **[ODU52240 TR-069 & IMS Unlock](https://github.com/dc-voltage/ODU52240_unlocked-TR-069-disable-Voice-IMS-APN)** | Carrier remote management disablement and unlocking restricted Voice/IMS APN interfaces for unrestricted data. | `Carrier Bypass` | `VERIFIED REPORT` |
 | 🖥️ **[OpenWrt LuCI Web GUI Integration](https://github.com/dc-voltage/Standard-OpenWrt-LuCI-Web-GUI-Activate-IDU-6111)** | Activation, tailoring, and deployment of native LuCI Web GUIs on carrier-locked telecom IDUs. | `OpenWrt Modding` | `VERIFIED TOOLKIT` |
-| ⚡ **[DC-VOLTAGE Kernel](https://github.com/dc-voltage)** | Supercharged Linux 4.14.357-openela custom kernel for Qualcomm SM7125 (`miatoll`) with KernelSU, EAS, and BBR. | `Android Kernel` | `ACTIVE PROJECT` |
+| ⚡ **[DC-VOLTAGE Kernel](https://github.com/dc-voltage)** | Supercharged Linux 4.14.357-openela custom kernel for Xiaomi SM7125 (`miatoll`) with KernelSU, EAS, and BBR. | `Android Kernel` | `ACTIVE PROJECT` |
 
 ---
 
