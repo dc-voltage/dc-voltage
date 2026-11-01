@@ -1,69 +1,28 @@
 <div align="center">
 
 # ⚡ DC VOLTAGE ⚡
-### **Router Unlocking & Telecom Hardware Researcher | Firmware Modder | Android Kernel Dev**
+### **Telecom Hardware Researcher | Embedded Security Engineer | Android Kernel Developer**
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=dc-voltage&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dc-voltage)
 [![Followers](https://img.shields.io/github/followers/dc-voltage?style=for-the-badge&color=4facfe&logo=github)](https://github.com/dc-voltage)
-
-```text
-========================================================================
-   _  _____ _   _____  _  _____ _   ___ ___ 
-  | \|_   _/_\ |_   _|/_\/ __| | | | _ \ __|
-  | .` | |/ _ \  | | / _ \ (_ | |_| |  _/ _| 
-  |_|\_|_/_/ \_\ |_|/_/ \_\___|\___/|_| |___|
-========================================================================
-🔓 Router & CPE Unlocking • 5G Modem R&D • Firmware Modding • Custom Kernels ⚡
-```
-
-</div>
-
----
-
-### 🔬 **Core Research & Engineering Domains**
-
-- 🔓 **Router Unlocking & ISP Policy Bypass:**
-  - Remote TR-069 ACS auto-management disablement & carrier lock removal.
-  - Custom APN routing: Unlocking Voice/IMS APN interfaces for unrestricted data across multi-carrier SIMs.
-  - Tailoring and activating native OpenWrt LuCI Web GUIs on carrier-locked telecom IDU/ODU hardware.
-
-- 🛰️ **5G CPE & Cellular Modem R&D:**
-  - Deep architectural forensic audits on Nokia 5G FWA CPE hardware (`AOD311NK`).
-  - SSL certificate bypass and firmware inspection on Quectel 5G Modems (`RG520F AirFiber`).
-  - Qualcomm modem diagnostic commands, AT-command interfaces, and baseband interaction.
-
-- 🛠️ **Firmware Modding & Hardware Forensics:**
-  - Embedded Linux root filesystem extraction, memory dumping, and bootloader reverse engineering.
-  - Network packet inspection via Wireshark and protocol vulnerability assessments.
-
-- ⚡ **Custom Android Kernel Engineering:**
-  - Building high-performance, hardened Linux 4.14.357-openela kernels (**DC-VOLTAGE**) for Qualcomm SM7125 (`miatoll` / Redmi Note 9 Pro Max).
-  - Modern non-GKI KernelSU stealth integration, Qualcomm EAS scheduling, and Google BBR TCP tuning.
-
----
-
-### 💻 **Tech Stack & Toolchain**
-
-<div align="center">
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Networking & Telecom** | `OpenWrt` • `LuCI` • `TR-069 / CWMP` • `IMS / APN Routing` • `5G FWA` • `Quectel AT` |
-| **Languages** | `C` • `C++` • `Python` • `POSIX Shell / Bash` • `ARM64 Assembly` |
-| **Kernel & OS** | `Linux Kernel (4.14 - 6.x)` • `Android AOSP` • `KernelSU` • `eBPF` |
-| **Analysis & Build** | `Clang / LLVM (LLD, ThinLTO)` • `Kbuild / GNU Make` • `Wireshark` • `GDB` • `DTC` |
+[![Research Status](https://img.shields.io/badge/SECURITY%20LAB-ACTIVE%20RESEARCH-00F2FE?style=for-the-badge&logo=target&logoColor=black)](https://github.com/dc-voltage)
 
 <br/>
 
-![OpenWrt](https://img.shields.io/badge/OpenWrt-008080?style=for-the-badge&logo=openwrt&logoColor=white)
-![Qualcomm](https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/dc-voltage">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=⚡+DC+VOLTAGE+|+Hardware+%26+Telecom+Reverse+Engineer;🔓+TR-069+CWMP+Remote+ACS+Provisioning+Specialist;📺+Amlogic+ARMv8+%26+Android+TV+%2F+STB+Security;🛰️+5G+FWA+CPE+%26+Qualcomm+Baseband+Research;⚡+Custom+Linux+%26+Android+Kernel+Developer" alt="Typing SVG" />
+</a>
+
+```text
+========================================================================================
+   _  _____ _   _____  _  _____ _   ___ ___     ____   ____   _   _ _____ _    ____ _____ 
+  | \|_   _/_\ |_   _|/_\/ __| | | | _ \ __|   |  _ \ / ___| | | | |_   _/ \  / ___| ____|
+  | .` | |/ _ \  | | / _ \ (_ | |_| |  _/ _|    | | | | |     | | | | | |/ _ \| |  _|  _|  
+  |_|\_|_/_/ \_\ |_|/_/ \_\___|\___/|_| |___|   | |_| | |___  \ \_/ / | / ___ \ |_| | |___ 
+                                                |____/ \____|  \___/  |_/_/   \_\____|_____|
+========================================================================================
+🔓 Router & CPE Unlocking • 5G Modem R&D • Android TV / STB Security • Custom Kernels ⚡
+```
 
 </div>
 
@@ -71,31 +30,88 @@
 
 ### 🔥 **Highlighted Research Repositories**
 
-| Repository | Focus & Highlights | Category |
-| :--- | :--- | :--- |
-| 🛰️ **[Audit-Nokia-AOD311NK-5G-FWA-CPE](https://github.com/dc-voltage/Audit-Nokia-AOD311NK-5G-FWA-CPE)** | Deep architectural audit and firmware security report for Nokia 5G FWA hardware. | `5G CPE Security` |
-| 🔓 **[Quectel RG520F SSL Research](https://github.com/dc-voltage/Engine-SSL-Bypass-Quectel-RG520F-JO-5G-Module-AirFiber)** | Cellular modem SSL certificate bypass and firmware inspection for AirFiber modules. | `Modem Unlocking` |
-| 🌐 **[ODU52240 TR-069 & IMS Unlock](https://github.com/dc-voltage/ODU52240_unlocked-TR-069-disable-Voice-IMS-APN)** | Research into disabling carrier remote management and opening IMS voice APNs. | `Carrier Bypass` |
-| 🖥️ **[OpenWrt LuCI Web GUI Integration](https://github.com/dc-voltage/Standard-OpenWrt-LuCI-Web-GUI-Activate-IDU-6111)** | Activation and tailoring of modern LuCI Web interfaces on specialized telecom IDUs. | `OpenWrt Modding` |
-| ⚡ **[DC-VOLTAGE Kernel](https://github.com/dc-voltage)** | Supercharged Linux 4.14.357-openela custom kernel for Xiaomi SM7125 (`miatoll`). | `Android Kernel` |
+| Repository | Focus & Technical Highlights | Category | Status |
+| :--- | :--- | :--- | :--- |
+| 📺 **[JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK](https://github.com/dc-voltage/JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK)** | **Amlogic ARMv8 Android 11 TR-069 CWMP bypass**, non-invasive forced ADB injection, 40+ Jio telemetry/SSO debloat toolkit, **Widevine L1 4K HDR & Dolby Audio preserved**. | `Android TV & STB Security` | `🔥 LATEST BREAKTHROUGH` |
+| 🛰️ **[Audit-Nokia-AOD311NK-5G-FWA-CPE](https://github.com/dc-voltage/Audit-Nokia-AOD311NK-5G-FWA-CPE)** | Deep architectural audit, firmware security teardown, and hardware analysis for Nokia 5G FWA outdoor units. | `5G CPE Security` | `VERIFIED REPORT` |
+| 🔓 **[Quectel RG520F SSL Research](https://github.com/dc-voltage/Engine-SSL-Bypass-Quectel-RG520F-JO-5G-Module-AirFiber)** | Cellular modem SSL certificate bypass, AT command forensics, and firmware inspection for 5G AirFiber modules. | `Modem Unlocking` | `RESEARCH RELEASE` |
+| 🌐 **[ODU52240 TR-069 & IMS Unlock](https://github.com/dc-voltage/ODU52240_unlocked-TR-069-disable-Voice-IMS-APN)** | Carrier remote management disablement and unlocking restricted Voice/IMS APN interfaces for unrestricted data. | `Carrier Bypass` | `VERIFIED REPORT` |
+| 🖥️ **[OpenWrt LuCI Web GUI Integration](https://github.com/dc-voltage/Standard-OpenWrt-LuCI-Web-GUI-Activate-IDU-6111)** | Activation, tailoring, and deployment of native LuCI Web GUIs on carrier-locked telecom IDUs. | `OpenWrt Modding` | `VERIFIED TOOLKIT` |
+| ⚡ **[DC-VOLTAGE Kernel](https://github.com/dc-voltage)** | Supercharged Linux 4.14.357-openela custom kernel for Qualcomm SM7125 (`miatoll`) with KernelSU, EAS, and BBR. | `Android Kernel` | `ACTIVE PROJECT` |
 
 ---
 
-### 📊 **GitHub Activity & Live Metrics**
+### 🔬 **Core Research & Engineering Domains**
+
+#### 📺 **1. Android TV & Set-Top Box Security**
+- **CWMP / TR-069 In-Band Provisioning Injections:** Reverse engineering OEM ACS protocols (`acs.oss.jio.com:9443`) to force-enable ADB debugging on locked TeleOS / Android 11 firmware without developer options.
+- **Hardware DRM & Secure Boot Safeguards:** Preventing Amlogic eFuse bricking and preserving factory-provisioned Widevine L1 (4K HDR) Keybox and HDCP 2.2 cryptography.
+- **OEM Telemetry & Ad Eradication:** Identifying and permanently decommissioning OEM tracking services, background SSO interceptors, and forced OTA update engines.
+
+#### 🔓 **2. Router Unlocking & ISP Policy Bypass**
+- **TR-069 ACS Auto-Management Neutralization:** Suppressing carrier backdoors and remote configuration overwrites.
+- **Custom APN Routing:** Bypassing operator policy to re-route IMS/Voice APNs for generic high-speed data transmission across all carriers.
+- **Native OpenWrt Porting:** Flashing and configuring modern LuCI management suites on OEM indoor and outdoor telecom CPEs.
+
+#### 🛰️ **3. 5G CPE & Cellular Modem R&D**
+- **Nokia & Luxshare 5G FWA Hardware Forensics:** Dissecting Qualcomm Snapdragon SDX65 / SDX62 baseband architectures.
+- **Cellular Baseband SSL Interception:** Bypassing encrypted verification channels on Quectel 5G AirFiber radio modules.
+- **Diagnostic Engineering:** AT-command manipulation, cellular band locking, and network protocol teardowns.
+
+#### ⚡ **4. Custom Android Kernel Engineering**
+- **Qualcomm Snapdragon SM7125 (`miatoll`):** Designing hardened, low-latency Linux kernels based on 4.14.357-openela.
+- **Stealth KernelSU & Subsystem Optimization:** Full non-GKI KernelSU integration, Energy-Aware Scheduling (EAS) tuning, and Google BBR TCP congestion control algorithms.
+
+---
+
+### 💻 **Tech Stack & Hardware Toolchain**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dc-voltage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dc-voltage&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Telecom & Networking** | `TR-069 / CWMP` • `OpenWrt & LuCI` • `IMS / APN Routing` • `5G FWA CPE` • `Wireshark` • `dnsmasq` |
+| **Architectures & Silicon** | `Qualcomm SDX65 / SM7125` • `Amlogic ARMv8` • `ARM Cortex-A55 / A7` • `Quectel RG520F` • `Mali-G31` |
+| **Operating Systems & Kernels**| `Embedded Linux` • `Android TV / AOSP 11-15` • `Linux Kernel 4.14 - 6.x` • `KernelSU` • `eBPF` |
+| **Languages & Reverse Tools** | `C` • `C++` • `Python 3` • `ARM64 Assembly` • `POSIX Bash` • `GDB` • `DTC / Device Tree` |
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dc-voltage&theme=tokyonight&hide_border=true" width="97%" />
+![TR069](https://img.shields.io/badge/TR--069-CWMP-red?style=for-the-badge&logo=statuspage&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-008080?style=for-the-badge&logo=openwrt&logoColor=white)
+![Amlogic](https://img.shields.io/badge/Amlogic-ARMv8-blue?style=for-the-badge&logo=arm&logoColor=white)
+![Qualcomm](https://img.shields.io/badge/Qualcomm-Snapdragon-3253DC?style=for-the-badge&logo=qualcomm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android%20TV-TeleOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
+### 📊 **Live Engineering Activity & Streak**
+
 <div align="center">
-  <sub>⚡ Engineered & Researched by <b>DC VOLTAGE</b> ⚡</sub>
+
+<a href="https://github.com/dc-voltage">
+  <img src="https://streak-stats.demolab.com/?user=dc-voltage&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="85%" alt="DC VOLTAGE Streak Stats" />
+</a>
+
+</div>
+
+---
+
+### ⚖️ **Responsible Disclosure & Research Ethics**
+
+All teardowns, security audits, and reverse engineering toolkits published in this profile are strictly intended for educational, recovery, and security research purposes. Proprietary cryptographic keys, root certificates, and exploit payloads capable of mass abuse are systematically redacted in compliance with responsible disclosure principles.
+
+---
+
+<div align="center">
+  <sub>⚡ Engineered, Researched & Maintained by <b><a href="https://github.com/dc-voltage">DC VOLTAGE</a></b> ⚡</sub><br/>
+  <sub>📬 Direct Contact: <code>dcvoltagepta@gmail.com</code></sub>
 </div>
