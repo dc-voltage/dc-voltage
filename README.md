@@ -30,6 +30,7 @@
 
 | Repository | Focus & Technical Highlights | Category | Status |
 | :--- | :--- | :--- | :--- |
+| 🛰️ **[airtel-nokia-311nk](https://github.com/dc-voltage/airtel-nokia-311nk)** | **Nokia FastMile 5G Outdoor CPE (AOD311NK / Airtel AirFiber) Master Toolkit**: Zero-config auto-serial login exploit, **5G SA Band n78 (3.5GHz) lock**, multi-carrier APN switcher (Jio/BSNL/Vi), live RF telemetry, and standalone tamper-proof binary. | `5G CPE & Baseband R&D` | `🔥 NEW FLAGSHIP TOOLKIT` |
 | 📺 **[JMSD200A-hide-powerfull-fichers](https://github.com/dc-voltage/JMSD200A-hide-powerfull-fichers)** | **Jio STB (JMSD200A) TeleOS Full Unlocking & Hidden Features Bible**: TR-069 watchdog neutralization, unhiding Stock Android TV settings, **Marantz SR7009 Audiophile Dolby Atmos & DTS Master Bitstream**, 10-bit HDR/ALLM, Ivideon CCTV forensics, and **21GB Debian 13 Linux Subsystem**. | `Android TV & STB Security` | `🔥 FLAGSHIP RELEASE` |
 | 📺 **[JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK](https://github.com/dc-voltage/JMSC200A-BOOM-SUCCESS-ADB-100-UNLOCK)** | **Amlogic ARMv8 Android 11 TR-069 CWMP bypass**, non-invasive forced ADB injection, 40+ Jio telemetry/SSO debloat toolkit, **Widevine L1 4K HDR & Dolby Audio preserved**. | `Android TV & STB Security` | `🔥 LATEST BREAKTHROUGH` |
 | 🛰️ **[Audit-Nokia-AOD311NK-5G-FWA-CPE](https://github.com/dc-voltage/Audit-Nokia-AOD311NK-5G-FWA-CPE)** | Deep architectural audit, firmware security teardown, and hardware analysis for Nokia 5G FWA outdoor units. | `5G CPE Security` | `VERIFIED REPORT` |
@@ -53,6 +54,7 @@
 - **Native OpenWrt Porting:** Flashing and configuring modern LuCI management suites on OEM indoor and outdoor telecom CPEs.
 
 #### 🛰️ **3. 5G CPE & Cellular Modem R&D**
+- **Nokia FastMile AOD311NK Master Exploitation:** Reverse engineering the unauthenticated prelogin CGI endpoint for automated serial password harvesting, 5G SA Band n78 isolation, and multi-carrier APN enforcement.
 - **Nokia & Luxshare 5G FWA Hardware Forensics:** Dissecting Qualcomm Snapdragon SDX65 / SDX62 baseband architectures.
 - **Cellular Baseband SSL Interception:** Bypassing encrypted verification channels on Quectel 5G AirFiber radio modules.
 - **Diagnostic Engineering:** AT-command manipulation, cellular band locking, and network protocol teardowns.
